@@ -1,0 +1,72 @@
+2025-04-21 11:19:57,269 - QuantumPortfolio - INFO - Loading data from portfolio_prices.csv
+2025-04-21 11:19:57,315 - QuantumPortfolio - INFO - Calculated returns for 10 assets
+2025-04-21 11:19:57,330 - QuantumPortfolio - INFO - Split data at 2023-01-01: 1007 train samples, 250 test samples
+2025-04-21 11:19:57,331 - QuantumPortfolio - INFO - Initializing quantum-enhanced flow training
+2025-04-21 11:20:00,189 - QuantumPortfolio - INFO - Starting training for 50 epochs
+2025-04-21 11:20:03,846 - QuantumPortfolio - INFO - Epoch 1/50 - Loss: 3.997936
+2025-04-21 11:20:07,324 - QuantumPortfolio - INFO - Epoch 2/50 - Loss: -18.907554
+2025-04-21 11:20:10,668 - QuantumPortfolio - INFO - Epoch 3/50 - Loss: -25.199577
+2025-04-21 11:20:13,921 - QuantumPortfolio - INFO - Epoch 4/50 - Loss: -27.642897
+2025-04-21 11:20:17,166 - QuantumPortfolio - INFO - Epoch 5/50 - Loss: -25.474264
+2025-04-21 11:20:20,428 - QuantumPortfolio - INFO - Epoch 6/50 - Loss: -27.296925
+2025-04-21 11:20:23,919 - QuantumPortfolio - INFO - Epoch 7/50 - Loss: -27.425843
+2025-04-21 11:20:27,235 - QuantumPortfolio - INFO - Epoch 8/50 - Loss: -28.091309
+2025-04-21 11:20:30,568 - QuantumPortfolio - INFO - Epoch 9/50 - Loss: -28.701728
+2025-04-21 11:20:33,809 - QuantumPortfolio - INFO - Epoch 10/50 - Loss: -28.342199
+2025-04-21 11:20:37,002 - QuantumPortfolio - INFO - Epoch 11/50 - Loss: -28.954562
+2025-04-21 11:20:40,135 - QuantumPortfolio - INFO - Epoch 12/50 - Loss: -29.722245
+2025-04-21 11:20:43,466 - QuantumPortfolio - INFO - Epoch 13/50 - Loss: -30.173340
+2025-04-21 11:20:46,687 - QuantumPortfolio - INFO - Epoch 14/50 - Loss: -29.199017
+2025-04-21 11:20:49,843 - QuantumPortfolio - INFO - Epoch 15/50 - Loss: -30.109228
+2025-04-21 11:20:53,099 - QuantumPortfolio - INFO - Epoch 16/50 - Loss: -30.941281
+2025-04-21 11:20:56,339 - QuantumPortfolio - INFO - Epoch 17/50 - Loss: -30.182961
+2025-04-21 11:20:59,671 - QuantumPortfolio - INFO - Epoch 18/50 - Loss: -30.910483
+2025-04-21 11:21:02,933 - QuantumPortfolio - INFO - Epoch 19/50 - Loss: -23.515739
+2025-04-21 11:21:06,154 - QuantumPortfolio - INFO - Epoch 20/50 - Loss: -26.460348
+2025-04-21 11:21:09,461 - QuantumPortfolio - INFO - Epoch 21/50 - Loss: -27.901313
+2025-04-21 11:21:12,663 - QuantumPortfolio - INFO - Epoch 22/50 - Loss: -28.545549
+2025-04-21 11:21:15,850 - QuantumPortfolio - INFO - Epoch 23/50 - Loss: -29.476446
+2025-04-21 11:21:19,111 - QuantumPortfolio - INFO - Epoch 24/50 - Loss: -30.152237
+2025-04-21 11:21:22,546 - QuantumPortfolio - INFO - Epoch 25/50 - Loss: -31.337419
+2025-04-21 11:21:25,715 - QuantumPortfolio - INFO - Epoch 26/50 - Loss: -30.920792
+2025-04-21 11:21:28,913 - QuantumPortfolio - INFO - Epoch 27/50 - Loss: -31.296625
+2025-04-21 11:21:32,263 - QuantumPortfolio - INFO - Epoch 28/50 - Loss: -32.213756
+2025-04-21 11:21:35,485 - QuantumPortfolio - INFO - Epoch 29/50 - Loss: -31.984812
+2025-04-21 11:21:38,845 - QuantumPortfolio - INFO - Epoch 30/50 - Loss: -32.066881
+2025-04-21 11:21:41,962 - QuantumPortfolio - INFO - Epoch 31/50 - Loss: -32.312962
+2025-04-21 11:21:45,220 - QuantumPortfolio - INFO - Epoch 32/50 - Loss: -32.684799
+2025-04-21 11:21:48,378 - QuantumPortfolio - INFO - Epoch 33/50 - Loss: -23.514236
+2025-04-21 11:21:51,600 - QuantumPortfolio - INFO - Epoch 34/50 - Loss: -29.182803
+2025-04-21 11:21:54,772 - QuantumPortfolio - INFO - Epoch 35/50 - Loss: -29.879507
+2025-04-21 11:21:58,048 - QuantumPortfolio - INFO - Epoch 36/50 - Loss: -28.144895
+2025-04-21 11:22:01,703 - QuantumPortfolio - INFO - Epoch 37/50 - Loss: -31.078707
+2025-04-21 11:22:06,274 - QuantumPortfolio - INFO - Epoch 38/50 - Loss: -32.065488
+2025-04-21 11:22:12,102 - QuantumPortfolio - INFO - Epoch 39/50 - Loss: -30.778171
+2025-04-21 11:22:17,948 - QuantumPortfolio - INFO - Epoch 40/50 - Loss: -32.189703
+2025-04-21 11:22:23,796 - QuantumPortfolio - INFO - Epoch 41/50 - Loss: -32.820707
+2025-04-21 11:22:29,154 - QuantumPortfolio - INFO - Epoch 42/50 - Loss: -33.072182
+2025-04-21 11:22:34,798 - QuantumPortfolio - INFO - Epoch 43/50 - Loss: -33.377770
+2025-04-21 11:22:40,541 - QuantumPortfolio - INFO - Epoch 44/50 - Loss: -33.677986
+2025-04-21 11:22:46,170 - QuantumPortfolio - INFO - Epoch 45/50 - Loss: -33.960193
+2025-04-21 11:22:51,391 - QuantumPortfolio - INFO - Epoch 46/50 - Loss: -34.017742
+2025-04-21 11:22:56,961 - QuantumPortfolio - INFO - Epoch 47/50 - Loss: -32.982874
+2025-04-21 11:23:02,454 - QuantumPortfolio - INFO - Epoch 48/50 - Loss: -33.653692
+2025-04-21 11:23:07,727 - QuantumPortfolio - INFO - Epoch 49/50 - Loss: -33.503517
+2025-04-21 11:23:12,931 - QuantumPortfolio - INFO - Epoch 50/50 - Loss: -33.766504
+2025-04-21 11:23:12,949 - QuantumPortfolio - INFO - Model training completed and saved
+2025-04-21 11:23:13,662 - QuantumPortfolio - INFO - Generating 1000 synthetic market scenarios
+2025-04-21 11:23:13,684 - QuantumPortfolio - INFO - Scenario generation completed
+2025-04-21 11:23:13,686 - QuantumPortfolio - INFO - Building QUBO formulation for portfolio selection
+2025-04-21 11:23:13,686 - QuantumPortfolio - INFO - QUBO matrix built with shape (10, 10)
+2025-04-21 11:23:13,688 - QuantumPortfolio - INFO - Starting QAOA optimization with p=1
+2025-04-21 11:23:13,697 - QuantumPortfolio - INFO - Added budget constraint: select exactly 4 assets
+2025-04-21 11:23:13,733 - QuantumPortfolio - INFO - Running QAOA solver
+2025-04-21 11:23:19,027 - QuantumPortfolio - INFO - QAOA solution found with objective value: 6.572751
+2025-04-21 11:23:19,027 - QuantumPortfolio - INFO - Selected 4.0 assets out of 10
+2025-04-21 11:23:19,047 - QuantumPortfolio - INFO - Evaluating portfolio performance
+2025-04-21 11:23:19,079 - QuantumPortfolio - INFO - Portfolio evaluation complete: 4 assets
+2025-04-21 11:23:19,079 - QuantumPortfolio - INFO - Annualized Return: 48.05%, Volatility: 21.96%, Sharpe: 2.19
+2025-04-21 11:23:19,079 - QuantumPortfolio - INFO - Generating portfolio visualizations
+2025-04-21 11:23:25,442 - QuantumPortfolio - INFO - Visualizations saved to results
+2025-04-21 11:23:25,458 - QuantumPortfolio - INFO - Quantum portfolio optimization complete!
+2025-04-21 11:23:25,459 - QuantumPortfolio - INFO - Results saved to results/

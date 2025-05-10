@@ -1,0 +1,22 @@
+# Core
+numpy>=1.21
+scipy>=1.7
+matplotlib>=3.4
+pandas>=1.3
+
+# Machine Learning
+torch>=1.10
+
+# Quantum SDK
+qiskit>=0.44
+
+# Development tools (optional but useful)
+tqdm>=4.62
+jupyterlab>=3.0
+seaborn>=0.11
+
+# For saving/loading models
+joblib>=1.1
+
+# For plotting graphs (if applicable)
+networkx>=2.6
