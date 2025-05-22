@@ -1,7 +1,3 @@
-Absolutely! Here's a complete and professional `README.md` tailored for your GitHub project: **Quantum-Enhanced Normalizing Flow and QAOA for Portfolio Optimization**.
-
----
-
 ### ✅ `README.md`
 
 ```markdown
